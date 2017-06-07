@@ -1,7 +1,3 @@
-/*div {width:300px; border:1px solid red; overflow:hidden; box-sizing:border-box;margin:4px;}*/			
-
-
-
 .thumbContainer													{ background: #f9f9f9; width:400px; border:1px solid #ddd; border-radius:4px;padding:4px; overflow:hidden; box-sizing:border-box;margin:1em 4px;}	
 
 .thumb-placeholder												{ box-sizing: border-box;  float: left;    padding: 1px;    text-align: center;}
